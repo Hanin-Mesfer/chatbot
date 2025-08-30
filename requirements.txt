@@ -1,5 +1,5 @@
 streamlit
-cohere
+cohere>=5.15.0
 realtimetts[gtts]
 git+https://github.com/KoljaB/RealtimeSTT.git
 git+https://github.com/KoljaB/RealtimeTTS.git
