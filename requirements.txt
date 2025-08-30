@@ -2,3 +2,4 @@ streamlit
 cohere
 realtimetts[gtts]
 git+https://github.com/KoljaB/RealtimeSTT.git
+git+https://github.com/KoljaB/RealtimeTTS.git
